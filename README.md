@@ -1,4 +1,4 @@
-# Formula 1 final round Twitter Analysis
+# Formula 1 Final Round Twitter Analysis
 
 ![project cover](img/project_cover.jpeg?raw=true)
 *Photo by Abed Ismail on Unsplash*
