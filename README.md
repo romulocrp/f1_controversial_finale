@@ -31,7 +31,7 @@ Another issue is that tweets from previous dates may be extracted too, since the
 
 The information scraped from Twitter geerated these columns:
 
-
+![json columns image][https://github.com/romulocrp/f1_controversial_finale/img/json_columns.png?raw=true)]
 
 Out those columns 7 were selected to provide more insight into the matter:
 
