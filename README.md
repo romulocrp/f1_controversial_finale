@@ -35,6 +35,7 @@ Another issue is that tweets from previous dates may be extracted too, since the
 The information scraped from Twitter geerated these columns:
 
 ![json columns image](img/json_columns.png?raw=true)
+
 *.json file columns scrapped from Twitter.*
 
 Out those columns 7 were selected to provide more insight into the matter:
