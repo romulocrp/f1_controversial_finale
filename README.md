@@ -1,5 +1,8 @@
 # Formula 1 final round Twitter Analysis
 
+![project cover](img/project_cover.png?raw=true)
+*Photo by Abed Ismail on Unsplash*
+
 ## Introduction
 
 On December 12th Abu Dhabi hosted the final race on the F1 2021 calendar, the race had great importance due to both champion contestants being tied to this very race, given the major dispute being observed, specially, on the last races.
