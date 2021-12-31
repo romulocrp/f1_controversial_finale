@@ -10,20 +10,20 @@ Since the beginning of the championship, Twitter has been an important tool to m
 
 Given all those points, this project will use NLP techniques to make an analysis on Twitter on the 12, 13, 14, and 15th of December to try to understand how fans really felt about how one of the most iconic seasons in F1 ended.
 
-##Goals
+## Goals
 
-###General Goals
+### General Goals
 
 To provide an analysis an a better understanding on how F1 fans expressed their feelings on Twitter on the days 12, 13, 14, and 15th of December.
 
-###Specific Goals
+### Specific Goals
 
 - How was the Twitter's reaction in general? Positive or Negative?
 - How did people felt about F1? FIA, Lewis Hamilton, and Max Verstappen?
 - What was that feeling that most of the people expressed in those days?
 - What was the feeling that most of the people expressed towards those same entities?
 
-##Methods
+## Methods
 
 To start the project 50,000 tweets were scraped from Twitter using the snscrape tool along with Python program, tweets were extracted using an upper date limit due to software limitations, it imposes a series of problems like duplication, many tweets may be duplicated since one hashtag may not have the amount of tweets that are going to be scraped.
 
@@ -47,6 +47,6 @@ Also, only tweets on english language were analyzed, they represent more than 50
 
 All data was cleaned and pre-processed, all HTMLs were cleaned along with all "#" signs, mentions, and emoticons, also, all data was converted to lower case.
 
-##Results
+## Results
 
 The scraping provided 28 .json files with 50,000 tweets to be cleaned. After all pre-processing phase, one .csv file was created with the database ready to be tockenized, in total, 
